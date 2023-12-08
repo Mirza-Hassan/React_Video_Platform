@@ -24,14 +24,27 @@ Develop a website with a backend capable of storing and serving various file typ
 
 # Setup Instructions
 
+### React Frontend:
+
 1. Clone the repository:
 ```
 git clone https://github.com/Mirza-Hassan/React_Video_Platform.git
 ```
-2. Navigate to the project directory and Run the command to install the required dependencies:
+2. Navigate to the Frontend Directory:
+```
+cd frontend 
+```
+3. Install Dependencies:
 ```
 npm install
 ```
+4. Run the Frontend:
+```
+npm start
+```
+
+### PHP Backend:
+
 
 # Screenshot
 ![Video_upload](https://github.com/Mirza-Hassan/React_Video_Platform/assets/17096257/a7542117-20fd-4a56-b8ce-0ff2f6900dca)
