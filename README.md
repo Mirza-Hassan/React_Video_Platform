@@ -44,7 +44,19 @@ npm start
 ```
 
 ### PHP Backend:
-
+1. Navigate to the Backend Directory:
+```
+cd backend
+```
+2. Run the PHP Server (assuming you have PHP installed):
+```
+php -S localhost:8000
+```
+If using a PHP framework like Laravel:
+```
+composer install  # Install dependencies
+php artisan serve  # Start Laravel server
+```
 
 # Screenshot
 ![Video_upload](https://github.com/Mirza-Hassan/React_Video_Platform/assets/17096257/a7542117-20fd-4a56-b8ce-0ff2f6900dca)
