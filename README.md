@@ -1,6 +1,7 @@
 # React Video Platform
 
 # Description
+Develop a website with a backend capable of storing and serving various file types of videos, and a frontend that allows users to display, upload, and delete videos.
 
 # Table of Contents
 
