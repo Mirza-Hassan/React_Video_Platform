@@ -17,7 +17,10 @@ Develop a website with a backend capable of storing and serving various file typ
 - Cloud: AWS S3
 
 # Folder Structure
+![frontend](https://github.com/Mirza-Hassan/React_Video_Platform/assets/17096257/9f82c41c-cb72-440e-864b-937be05e69e8)
+
 ![backend](https://github.com/Mirza-Hassan/React_Video_Platform/assets/17096257/b5ed614e-a299-40fd-b5cf-7109a1086eef)
+
 
 # Setup Instructions
 
