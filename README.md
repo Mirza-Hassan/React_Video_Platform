@@ -33,3 +33,6 @@ npm install
 # Screenshot
 ![Video_upload](https://github.com/Mirza-Hassan/React_Video_Platform/assets/17096257/a7542117-20fd-4a56-b8ce-0ff2f6900dca)
 ![Video_delete](https://github.com/Mirza-Hassan/React_Video_Platform/assets/17096257/37413d57-8054-4eda-9e5b-d324d1193812)
+
+### Database:
+![mySQL](https://github.com/Mirza-Hassan/React_Video_Platform/assets/17096257/8719d630-b229-4a7b-975f-688724bf9d60)
